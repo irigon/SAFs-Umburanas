@@ -1,0 +1,25 @@
+Bananeiras:
+- l6m4:
+  - Condicoes: broca profunda, um dos lados muito machucado ou podre
+  - Enterrada na terra seca, regada com agua, plantada raza (apenas abaixo do solo)
+- l6m10:
+  - Condicoes: brocas profundas, plantada para nascer no sentido da l1m10 (perpenticular a linha)
+- l1m0: 
+  - Condicoes: muito jovem, razoavelmente saudavel (pequenas brocas foram retiradas, mas teve que cortar bem menos que as outras); 
+  - plantada para nascer no sentido l1m10 tambem (paralela a linha). Raza (apenas abaixo do solo)
+  - Regada com agua e esterco
+- l6m7: 
+  - Condicoes: Medio porte, nao procuramos broca
+  - Plantada: 
+    - fizemos um buraco mais profundo, misturamos bastante agua e esterco no fundo do buraco e tapamos.
+    - deixamos a cabeca (toquinho) para fora
+- l1m4:
+  - Condicoes: Media grande, cortei um pouco para tirar as brocas
+  - Plantada: 
+    - fiz um buraco medio (ca 30cm), deixei o toco para fora, tirei as raizes
+    - misturei um pouco de agua com a terra para cavar mais fundo, e puz agua com o restinho de esterco para molhar a terra
+- l1m8: 
+    - Deixei um toco pra fora e so limpei as raizes
+    - Porte: medio grande
+    - Enterrei na terra seca e puz agua por cima.
+
