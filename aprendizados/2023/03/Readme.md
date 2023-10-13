@@ -31,9 +31,11 @@ O arquivo .drawio está disponível clicando em "salvar como" na imagem.
 5. Nao consegui insumos
 6. A biomassa veio toda de fora de Canjuao e madeira espinhosa. 
 7. A agua do poço do vizinho é bastante amarela, provavelmente saloba.
+8. Nao encontrei mudas de eucalipto. Plantei de sementes, mas nao nasceram.
 
 # Lições aprendidas
 - A madeira espinhosa nao deveria ser usada nas linhas. Ela tem pouca biomassa e ficou dificil de manejar.
 - O Canjoao ficaria bem melhor se fosse triturado
+- Comprar mudas de eucalipto tipo [Nome e referencia]
 
 # Informações adicionais
